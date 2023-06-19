@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pgpunde
+- 👋 Hi, I’m Pramod
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learnng C ,C++ ,Java
 
